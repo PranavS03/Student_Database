@@ -14,8 +14,7 @@
         '    properties dialog (under the "Project" menu).
         Me.LabelProductName.Text = My.Application.Info.ProductName
         Me.LabelVersion.Text = "Version 1.0.0.1"
-        Me.LabelCopyright.Text = My.Application.Info.Copyright
-        Me.LabelCompanyName.Text = "PranavS Prodctions"
+       
         Me.TextBoxDescription.Text = "This is an easy and a very small database aplication devloped by PranavS Productions. Thank You for using our application"
     End Sub
 
